@@ -1,4 +1,4 @@
-{{ if or (not (isset .Params "comments")) (.Params.comments) }}
+{{- /* Comment area start */ -}}
 <script src="https://utteranc.es/client.js"
   repo="username/username.github.io"
   issue-term="pathname"
@@ -7,4 +7,4 @@
   crossorigin="anonymous"
   async>
 </script>
-{{ end }}
+{{- /* Comments area end */ -}}
