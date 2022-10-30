@@ -1,8 +1,10 @@
+{{ if or (not (isset .Params "comments")) (.Params.comments) }}
 <script src="https://utteranc.es/client.js"
-  repo="mscipio/mscipio.github.io"
+  repo="username/username.github.io"
   issue-term="pathname"
-  label="Comment"
-  theme="github-light"
+  label="💬💬"
+  theme="gruvbox-dark"
   crossorigin="anonymous"
   async>
 </script>
+{{ end }}
