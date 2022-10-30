@@ -16,8 +16,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: Akash gaur sits
+  description: "Akash gaur sits"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -81,6 +81,10 @@ params:
       url: "https://www.instagram.com/akashgaur88/"
     - name: github
       url: "https://github.com/Akashgaur30"
+      - name: linkedin
+      url: "https://www.linkedin.com/in/akash-gaur-808403242/"
+      - name: Quora
+      url: "https://www.quora.com/profile/Akash-Gaur-209"
 
   analytics:
     google:
