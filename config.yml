@@ -81,6 +81,11 @@ params:
       url: "https://www.instagram.com/akashgaur88/"
     - name: github
       url: "https://github.com/Akashgaur30"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/akash-gaur-808403242/"
+    - name: telegram
+      url: "https://t.me/akashgaur30"
+
 
   analytics:
     google:
@@ -134,3 +139,4 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
