@@ -81,10 +81,6 @@ params:
       url: "https://www.instagram.com/akashgaur88/"
     - name: github
       url: "https://github.com/Akashgaur30"
-      - name: linkedin
-      url: "https://www.linkedin.com/in/akash-gaur-808403242/"
-      - name: Quora
-      url: "https://www.quora.com/profile/Akash-Gaur-209"
 
   analytics:
     google:
