@@ -20,17 +20,16 @@ params:
   description: "Akash gaur sits"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
-  # author: ["Me", "You"] # multiple authors
-  images: ["/home/akash/papa/content/"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark
   disableThemeToggle: false
-
+  cover:
+    LinkFullImages: true 
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
