@@ -3,7 +3,7 @@ title: "How to install transmission"
 
 date: 2022-10-10
 url: /transmission/
-image: images/2022/first.jpg
+image: /images/1.png
 
 categories:
   - Linux

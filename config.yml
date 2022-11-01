@@ -21,7 +21,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["/home/akash/papa/content/"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark
   disableThemeToggle: false
@@ -59,9 +59,9 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    title: Akash gaur
+    subtitle: "my blog"
+    imageUrl: ""
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
@@ -85,7 +85,8 @@ params:
       url: "https://www.linkedin.com/in/akash-gaur-808403242/"
     - name: telegram
       url: "https://t.me/akashgaur30"
-
+    - name: buymeacoffee
+      url: "https://www.buymeacoffee.com/akash123gaO"
 
   analytics:
     google:
@@ -129,6 +130,11 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
+    - identifier: search.md
+      name: search
+      url: /search/
+      weight: 30
+      
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
@@ -139,4 +145,11 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
 
