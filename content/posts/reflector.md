@@ -1,10 +1,7 @@
-
 ---
 title: "How to install reflector"
-
-date: 2022-9-9
+date: 2022-10-03
 url: /reflector/
-
 categories:
   - Linux
 tags:

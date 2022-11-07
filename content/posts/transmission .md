@@ -8,6 +8,7 @@ tags:
   - Arch linux
 draft: false
 ---
+![transmission](/image/Transmission-img.jpg "tran")
 
 This guide show you how to install Transmission on Arch Linux and configure it with a kill switch so that Transmission will only download and upload using a specific IP address. For example a [WireGuard VPN]. The guide is based on the tutorial over at the [Transmission Wiki](https://githu on GitHub. [Documentation for the config file](https://github.com/transmission/transmission/wiki/Editing-Configuration-Files) can be found over at the GitHub Wiki page as well.
 

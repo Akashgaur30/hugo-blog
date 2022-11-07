@@ -12,7 +12,7 @@ tags:
   - Arch linux
 draft: false
 ---
-
+![a](/image/hugo.png "hugo")
 #### GETTING STARTED
 
 #Quick Start

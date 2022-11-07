@@ -10,6 +10,7 @@ tags:
   - Ubuntu
 draft: false
 ---
+![](/image/GitHub.jpg)
 ### Introduction
 
 GitHub is a cloud-hosted Git management tool. Git is _distributed_ version control, meaning the entire repository and history lives wherever you put it. People tend to use GitHub in their business or development workflow as a managed hosting solution for backups of their repositories. GitHub takes this even further by letting you connect with coworkers, friends, organizations, and more.

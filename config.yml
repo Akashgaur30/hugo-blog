@@ -24,6 +24,7 @@ params:
   defaultTheme: dark
   disableThemeToggle: false
   cover:
+    responsiveImages: false
     LinkFullImages: true 
   ShowReadingTime: true
   ShowShareButtons: true

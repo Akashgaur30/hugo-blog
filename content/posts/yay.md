@@ -3,7 +3,6 @@ title: "How to setup yay in Arch linux"
 
 date: 2022-10-20
 url: /yay/
-
 categories:
   - Linux
 tags:
@@ -11,6 +10,7 @@ tags:
   - Arch linux
 draft: false
 ---
+![a](/image/arch.png "arch")
 
 This guide will walk through the steps for installing yay (Yet another Yogurt) which is an AUR Helper. This will let you install packages from the AUR (Arch User Repository) in the same way you install packages from the Arch Repo with pacman.
 
