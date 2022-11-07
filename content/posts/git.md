@@ -1,5 +1,5 @@
 ---
-title: "how to push Git"
+title: "How to push Git"
 
 date: 2022-11-07
 url: /git/
